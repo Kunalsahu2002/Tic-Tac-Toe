@@ -1,12 +1,71 @@
-# React + Vite
+# 🎮 Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive Tic-Tac-Toe game built with React.js featuring sound effects, score tracking.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Gameplay**: Classic 3x3 Tic-Tac-Toe with smooth animations
+- **Sound Effects**: 
+  - Click sound when placing X or O
+  - Game over sound when someone wins or game draws
+- **Score Tracking**: Keeps track of wins for both X and O players
+- **Visual Feedback**: 
+  - Strike-through animation for winning combinations
+  - Clear game state indicators
+- **Responsive Design**: Works perfectly on desktop and mobile devices
+- **Reset Functionality**: Easy game reset with preserved scores
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Play the game online: ( https://kunalsahu2002.github.io/Tic-Tac-Toe/)
+
+## 🛠️ Technologies Used
+
+- **React.js** - Frontend framework
+- **Vite** - Build tool and development server
+- **CSS3** - Styling and animations
+- **HTML5** - Structure
+- **JavaScript ES6+** - Game logic
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe-15.git
+   cd tic-tac-toe-15
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` to play the game
+
+## 🎯 How to Play
+
+1. **Game Start**: Player X always goes first
+2. **Take Turns**: Click on any empty tile to place your symbol (X or O)
+3. **Win Condition**: Get three of your symbols in a row (horizontally, vertically, or diagonally)
+4. **Score Tracking**: Wins are automatically tracked for both players
+5. **Reset**: Click the reset button to start a new game while keeping scores
+
+
+## 🔧 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run deploy` - Deploy to GitHub Pages
+
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
