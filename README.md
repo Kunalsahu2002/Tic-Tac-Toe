@@ -2,6 +2,10 @@
 
 A modern, interactive Tic-Tac-Toe game built with React.js featuring sound effects, score tracking.
 
+## 🚀 Live Demo
+
+Play the game online: ( https://kunalsahu2002.github.io/Tic-Tac-Toe/)
+
 ## 🌟 Features
 
 - **Interactive Gameplay**: Classic 3x3 Tic-Tac-Toe with smooth animations
@@ -15,9 +19,6 @@ A modern, interactive Tic-Tac-Toe game built with React.js featuring sound effec
 - **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Reset Functionality**: Easy game reset with preserved scores
 
-## 🚀 Live Demo
-
-Play the game online: ( https://kunalsahu2002.github.io/Tic-Tac-Toe/)
 
 ## 🛠️ Technologies Used
 
@@ -31,7 +32,7 @@ Play the game online: ( https://kunalsahu2002.github.io/Tic-Tac-Toe/)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-15.git
+   git clone https://github.com/Kunalsahu2002/Tic-Tac-Toe.git
    cd tic-tac-toe-15
    ```
 
